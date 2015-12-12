@@ -1,1 +1,26 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "tentang-saya.md",
+        "saya-dan-mobile-programming.md",
+        "objectives.md",
+        "disclaimers.md"
+    ],
+    [
+        "tentang-mobile-programming.md",
+        "kenapa-mobile-programming.md",
+        "kenapa-mobile-programming-2.md",
+        "the-team.md"
+    ],
+    [
+        "awesome-mobile-programmer.md",
+        "1-menguasai-bahasa-pemrograman-di-platformnya.md",
+        "2-menguasai-development-kit-di-platformnya.md",
+        "3-seorang-team-player.md",
+        "3-seorang-team-player-2.md",
+        "4-paham-sdlc.md",
+        "5-memahami-pola-ui-ux-di-platformnya.md",
+        "6-memahami-infrastruktur-backend.md",
+        "6-memahami-infrastruktur-backend-2.md"
+    ]
+]
